@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="electricity" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<path d="M128,2.7C58.8,2.7,2.7,58.8,2.7,128c0,69.2,56.1,125.3,125.3,125.3c69.2,0,125.3-56.1,125.3-125.3
+	C253.3,58.8,197.2,2.7,128,2.7z M187.4,118.8L83.3,225.4l31.6-76.7H72.4l63.8-106.6h51.2l-44.8,76.7H187.4z"/>
+</svg>
